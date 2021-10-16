@@ -1,0 +1,4 @@
+select * from table;  -------------> displays all columns and data of table
+select id,name from table;  -------> displays id and name column from table
+select sum(price) from table;  ----> displays sum of values in price column in table
+select count(*) from table;  ------> display number of records in table;
